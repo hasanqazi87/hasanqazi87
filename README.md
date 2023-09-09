@@ -2,8 +2,8 @@
 
 <h2>Certifications</h2>
 <ul>
-  <li><a href='https://verify.openedg.org/?id=26FX.hzWH.vLRe'>Certified Entry-Level Python Programmer</a></li>
-  <li><a href='https://verify.openedg.org/?id=4BUc.goKY.wEAR'>Certified Associate in Python Programming</a></li>
+  <li><a href='https://verify.openedg.org/?id=26FX.hzWH.vLRe' target=_blank>Certified Entry-Level Python Programmer</a></li>
+  <li><a href='https://verify.openedg.org/?id=4BUc.goKY.wEAR' target=_blank>Certified Associate in Python Programming</a></li>
 </ul>
 
 <!--
