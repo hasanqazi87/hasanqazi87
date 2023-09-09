@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1>Hi it's Hasan... or Qazi</h1>
+
+<h2>Certifications</h2>
+<ul>
+  <li><a href='https://verify.openedg.org/?id=26FX.hzWH.vLRe'>Certified Entry-Level Python Programmer</a></li>
+  <li><a href='https://verify.openedg.org/?id=4BUc.goKY.wEAR'>Certified Associate in Python Programming</a></li>
+</ul>
 
 <!--
 **hasanqazi87/hasanqazi87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
