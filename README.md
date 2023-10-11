@@ -4,6 +4,7 @@
 <ul>
   <li><a href='https://verify.openedg.org/?id=26FX.hzWH.vLRe' target='_blank'>Certified Entry-Level Python Programmer</a></li>
   <li><a href='https://verify.openedg.org/?id=4BUc.goKY.wEAR' target='_blank'>Certified Associate in Python Programming</a></li>
+  <li><a href='https://verify.openedg.org/?id=qC9f.PSzQ.oETC' target='_blank'>Certified Professional in Python Programming</a></li>
 </ul>
 
 <!--
