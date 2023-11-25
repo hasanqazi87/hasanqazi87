@@ -5,6 +5,7 @@
   <li><a href='https://verify.openedg.org/?id=26FX.hzWH.vLRe' target='_blank'>Certified Entry-Level Python Programmer</a></li>
   <li><a href='https://verify.openedg.org/?id=4BUc.goKY.wEAR' target='_blank'>Certified Associate in Python Programming</a></li>
   <li><a href='https://verify.openedg.org/?id=qC9f.PSzQ.oETC' target='_blank'>Certified Professional in Python Programming</a></li>
+  <li><a href='https://coursera.org/verify/professional-cert/4PGVVNX8CBCA' target='_blank'>Certified IBM Full Stack Software Developer</a></li>
 </ul>
 
 <!--
