@@ -6,6 +6,7 @@
   <li><a href='https://verify.openedg.org/?id=4BUc.goKY.wEAR' target='_blank'>Certified Associate in Python Programming</a></li>
   <li><a href='https://verify.openedg.org/?id=qC9f.PSzQ.oETC' target='_blank'>Certified Professional in Python Programming</a></li>
   <li><a href='https://coursera.org/verify/professional-cert/4PGVVNX8CBCA' target='_blank'>Certified IBM Full Stack Software Developer</a></li>
+  <li><a href='https://coursera.org/verify/professional-cert/M2WNRP3V2B87' target='_blank'>Certified IBM Data Science Specialist</a></li>
 </ul>
 
 <!--
